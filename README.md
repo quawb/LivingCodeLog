@@ -1,8 +1,5 @@
 # LivingCodeLog
-devlog for drawing, moving and seeing with code
-_NOTES and experiments! With CODE!!!!_
-
-Living Breathing and Smelling Code!
+_Living Breathing and Smelling Code!_
 
 [Experimenting with LOGO](2021-02-16-LOGO-Log.md)
 2/4/20/21
