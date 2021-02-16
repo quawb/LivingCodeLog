@@ -7,3 +7,4 @@ _NOTES and experiments! With CODE!!!!_
 
 [walking with algorithms](2021-02-11-walking-with-algorithms.md)
 
+[AARON and NoPaint](2021-02-16-AARON-LOG.md)
