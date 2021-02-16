@@ -1,10 +1,14 @@
 # LivingCodeLog
-devlog for drawing, 
-moving and seeing with code
+devlog for drawing, moving and seeing with code
 _NOTES and experiments! With CODE!!!!_
 
+Living Breathing and Smelling Code!
+
 [Experimenting with LOGO](2021-02-16-LOGO-Log.md)
+2/4/20/21
 
 [walking with algorithms](2021-02-11-walking-with-algorithms.md)
+2/11/2021
 
 [AARON and NoPaint](2021-02-16-AARON-LOG.md)
+2/18/2021
