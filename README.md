@@ -1,4 +1,4 @@
-# LOG_INDEX
+# Living Code Log
 _Living Breathing and Smelling Code!_
 
 [Experimenting with LOGO](2021-02-16-LOGO-Log.md)
