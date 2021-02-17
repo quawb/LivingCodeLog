@@ -32,3 +32,5 @@ REFLECTION ON CLASSMATE’S WALK:
 Was expecting this one to not be too long, ended up getting far from my house and had a twenty minute walk back. Hit a bunch of places I never walked to before, which I was not expecting to get to now, included the next town’s metro north station. I little not have control over the walk, I do think I am going to start doing walks where I use dice to pick all my directions. I did break the code a bunch though because of the FD 2 blocks (this actually happened with the very first command lol), I kept getting into places where there was only one stretch of street in front of me (had to dodge a highway at one point too). The streets were also very inconstant in size, had to call some of the blocks two streets in order not to exhaust myself. 
 
 Was cool to thnk about this in relation to situationalism, never heard of situationalism before, found this video on it: https://www.youtube.com/watch?v=2SvdWk8zRrI
+
+[HOME](README.md)
