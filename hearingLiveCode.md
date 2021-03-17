@@ -13,4 +13,7 @@ Things I like doing:
 - and cosmic sounds
 - love using # n (irand x)
 - then bring everything back to fire
+- test: ```s "fire"```
 
+
+[HOME](README.md)
