@@ -13,6 +13,7 @@ Things I like doing:
 - and cosmic sounds
 - love using ```# n (irand x)```
 - then bring everything back to fire
+- also love ```s "alphabet numbers"```
 
 I want to try to make more things with ```# note``` chords and etc, feel like that would be cool, I made a nice three note piano chord pattern that I was happy with, but it would be cool to make like a melody or something. Also the delay function seems to never work the way I want it to lol, will need to figure that out. 
 
@@ -24,7 +25,7 @@ and here's a nice ending I ended up with
 
 ![Screen Shot 2021-03-16 at 1.35.00 PM.png]({{site.baseurl}}/Screen Shot 2021-03-16 at 1.35.00 PM.png)
 
-You can probably tell I really like the random feature, I wish I could make random notes, maybe there is a way to do that, I will look into that at some point!
+You can probably tell I really like the random feature, I wish I could make random notes though, maybe there is a way to do that, I will look into that at some point! 
 
 
 [HOME](README.md)
