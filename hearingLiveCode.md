@@ -14,6 +14,6 @@ Things I like doing:
 - love using ```# n (irand x)```
 - then bring everything back to fire
 
-I want to try to make more things with ```# note``` chords and etc, feel like that would be cool, I made a nice three note piano chord pattern that I was happy with, but it would be cool to make like a melody or something. 
+I want to try to make more things with ```# note``` chords and etc, feel like that would be cool, I made a nice three note piano chord pattern that I was happy with, but it would be cool to make like a melody or something. Also the delay function seems to never work the way I want it to lol, will need to figure that out. 
 
 [HOME](README.md)
