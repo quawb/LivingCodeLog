@@ -27,5 +27,6 @@ and here's a nice ending I ended up with
 
 You can probably tell I really like the random feature, I wish I could make random notes though, maybe there is a way to do that, I will look into that at some point! 
 
+```striate 16 $ s "[cosmic*4,~invaders*4]" # n (irand 8)``` this was a pretty crazy one
 
 [HOME](README.md)
