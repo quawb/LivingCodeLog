@@ -16,4 +16,15 @@ Things I like doing:
 
 I want to try to make more things with ```# note``` chords and etc, feel like that would be cool, I made a nice three note piano chord pattern that I was happy with, but it would be cool to make like a melody or something. Also the delay function seems to never work the way I want it to lol, will need to figure that out. 
 
+here's a screenshot of something I did on my own: 
+
+![Screen Shot 2021-03-16 at 4.25.15 PM.png]({{site.baseurl}}/Screen Shot 2021-03-16 at 4.25.15 PM.png)
+
+and here's a nice ending I ended up with
+
+![Screen Shot 2021-03-16 at 1.35.00 PM.png]({{site.baseurl}}/Screen Shot 2021-03-16 at 1.35.00 PM.png)
+
+You can probably tell I really like the random feature, I wish I could make random notes, maybe there is a way to do that, I will look into that at some point!
+
+
 [HOME](README.md)
