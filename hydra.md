@@ -24,7 +24,7 @@ Started out with using the camera, which was nice because it didn't spiral into 
 
 ![two.jpg]({{site.baseurl}}/two.jpg)
 
-Cool, made the pixelate make everything like shapes, and started using modulate, which is really cool. I like have the camera as the input (even though you can see me), because I can play with the light and etc, so I can change all the colors by putting my finger to the camera. After this I used modulatePixelate, and modulateRotate, but I liked modulateRepeat the most. 
+Cool, made the pixelate make everything like shapes, and started using modulate, which is really cool. Think this is my favorite. I like having the camera as the input (even though you can't see me), because I can play with the light and etc, so I can change all the colors by putting my finger to the camera. After this I used modulatePixelate, and modulateRotate, but I liked modulateRepeat the most. 
 
 ![three.jpg]({{site.baseurl}}/three.jpg)
 
