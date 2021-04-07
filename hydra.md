@@ -53,3 +53,5 @@ Honestly, I did not find this language very intuitive for me personally. I defin
 ### what am I doing/Hydra v. p5.js?
 
 guess I'm trying to make interesting patterns, motions, colors. Sometimes trying to distort images for fun. I think I like p5.js more since I can actually build things from scratch which is a fun thing to do, while hydra to me feels more like modeling pixels? (idk if that makes sense) I think my brain is just more used to thinking in terms of p5.js for now (I tend to overthink things which I think works well with p5), although livecoding with p5.js seems even crazier. This whole idea of live anything is very confusing for me. I like that I can see the process and the progression and etc... but I'm just really not used to thinking like that, but I do love the impulsivity/improvisation aspect that comes with live anything, that aspect I find very appealing, and even if all I get from doing this is being more comfortable being impulsive I would be very happy with just that (although I think I will get much more of this than just that). Maybe once I check out how to input an image or web brower I will have more options/ideas!
+
+[HOME](README.md)
