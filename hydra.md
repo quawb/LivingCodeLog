@@ -35,6 +35,16 @@ think I did somewhere weird by mistake and then deleted too much and ended up ju
 
 ![Screen Shot 2021-04-07 at 1.01.27 PM.png]({{site.baseurl}}/Screen Shot 2021-04-07 at 1.01.27 PM.png)
 
+Went back to start with the camera, and a modulated osc, think this one has a pretty good level of pixelation. I like how my eyes are pink abysses and the unevenness of the osc. 
+
+![six.jpg]({{site.baseurl}}/six.jpg)
+
+Lastly, i made this one, which went through a lot of chaos and confusion but I think it ended up pretty cool! I was looking aroudn reference and saw how to send out like four things and blend/modulate them together, still confused on the whole thing but feel like this has potential! I was trying to figure out how to like overlap a video and my camera or something like that but ended up here instead, will need to go back and figure that out when my brain is less fried. 
+
+### The future?
+
+Not exactly sure how I will use this in the future, but I do want to play with it and figure out how I can incorporate it because it feels like there is something here I can use. The first step for me would be to try to run/loop a video into Hydra and play around with the functions. I'm hoping I could screen record that and somehow use that video as a portion of a larger project maybe? I could see myself doing soemthing similar with the camera or the screensharing, recording the effects slowly being layered on and turn into a video. I don't know how I would do this stuff live though, doing things live seems like a whole other beast! I was also thinking of trying to run my ecosystem through this, but idk why, I'm thinking that would actually look quite bad
+
 
 
 
