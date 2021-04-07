@@ -31,7 +31,7 @@ thought this one was pretty fun too, and then I went too crazy again...
 
 ![four.jpg]({{site.baseurl}}/four.jpg)
 
-think I did somewhere weird by mistake and then deleted too much and ended up just starting over after this.
+think I did something somewhere weird by mistake and then deleted too much and ended up just starting over after this.
 
 ![Screen Shot 2021-04-07 at 1.01.27 PM.png]({{site.baseurl}}/Screen Shot 2021-04-07 at 1.01.27 PM.png)
 
