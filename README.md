@@ -15,3 +15,6 @@ _Living Breathing and Smelling Code!_
 
 [Estuary](hearingLiveCode.md)
 3/18/2021
+
+[Hydra](hydra.md)
+3/31/2021-4/8/2021
