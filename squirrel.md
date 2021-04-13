@@ -1,5 +1,3 @@
-### LivingCodeLog
-
 ## ATTACK OF THE EVIL SQUIRRELS!
 
 ![squirrel.png]({{site.baseurl}}/squirrel.png)
