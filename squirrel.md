@@ -1,4 +1,6 @@
-### ATTACK OF THE EVIL SQUIRRELS!
+### LivingCodeLog
+
+## ATTACK OF THE EVIL SQUIRRELS!
 
 ![squirrel.png]({{site.baseurl}}/squirrel.png)
 
@@ -28,3 +30,6 @@ We divided up the things that everyone was doing, but helped each other when we 
 1. we have trees and boulders with avoid functions that the effect the player and the enemy squirrel, along when the player is big enough it breaks, which I kinda like because you just like hop over the trees which is funny
 1. we also have decorative flowers and bushes
 1. what else, acorn that appears when your health is less than 3 that spawns randomly on the map and gives you one health 
+
+
+[HOME](README.md)
