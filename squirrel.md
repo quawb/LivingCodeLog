@@ -26,7 +26,7 @@ We divided up the things that everyone was doing, but helped each other when we 
 1. what else, acorn that appears when your health is less than 3 that spawns randomly on the map and gives you one health 
 
 ## MADE A ROBOT
-He has some issues but he kinda works lol. Can't get him to "properly" avoid enemy squirrels that are larger than him so I tryied to bounce the squirrels away from him and had to give him a much larger health. I made it so the robot and the player compete to eat the squirrels. 
+He has some issues but he kinda works lol. Can't get him to "properly" avoid enemy squirrels that are larger than him so I tryied to bounce the squirrels away from him and had to give him a much larger health. still has issues though. I made it so the robot and the player compete to eat the squirrels, think I will make it so when the robot reachs max size he chases the player, but this game might be getting too difficult now...
 
 [HYDRA EXPERIMENT 3](https://hydra.ojack.xyz/?code=czAuaW5pdEltYWdlKCUyMmh0dHBzJTNBJTJGJTJGdmlnbmV0dGUud2lraWEubm9jb29raWUubmV0JTJGY29uY29yZCUyRmltYWdlcyUyRmYlMkZmYiUyRkludGVyc3RlbGxhcl9zcGFjZXNoaXAuanBnJTJGcmV2aXNpb24lMkZsYXRlc3QlM0ZjYiUzRDIwMjAwODE1MTUyMjQ5JTIyKSUzQiUwQSUwQXNyYyhzMCkuc2F0dXJhdGUoMTApLnJvdGF0ZSgxMCUyQy0xKS5tb2R1bGF0ZVJlcGVhdChvc2MoMTApJTJDMyUyQzMlMkMxJTJDMSkua2FsZWlkKDIpLmFkZChvc2MoMC45JTJDMSUyQy4yKS5jb2xvcmFtYSgxJTJDMCUyQzEpLnBpeGVsYXRlKDEpLnNjYWxlKDAuMSkucm90YXRlKDEwJTJDMSkpLmJsZW5kKG5vaXNlKDEwJTJDMC4xKSUyQzAuNSkucm90YXRlKDEwJTJDLTAuNSkuc2NhbGUoMC4yKS5hZGQoc2hhcGUoMTAwKS5yb3RhdGUoMSUyQzEpKS5hZGQob3NjKCkucGl4ZWxhdGUoMTAwKSkuc2F0dXJhdGUoMTApLnNjYWxlKDIpLm91dCgpJTBB)
 
