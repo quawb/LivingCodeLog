@@ -2,13 +2,9 @@
 
 ![squirrel.png]({{site.baseurl}}/squirrel.png)
 
-## CODE:
+## [CODE HERE](https://editor.p5js.org/chrismdv00/sketches/WYFyGV4tx)
 
-https://editor.p5js.org/chrismdv00/sketches/WYFyGV4tx
-
-## FULLSCREEN:
-
-https://editor.p5js.org/chrismdv00/full/WYFyGV4tx
+## [FULLSCREEN MODE](https://editor.p5js.org/chrismdv00/full/WYFyGV4tx)
 
 ## PROCESS
 
