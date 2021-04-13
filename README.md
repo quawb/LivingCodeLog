@@ -18,3 +18,6 @@ _Living Breathing and Smelling Code!_
 
 [Hydra](hydra.md)
 3/31/2021-4/8/2021
+
+[Squirrel](squirrel.md)
+4/8/2021-4/15/2021
