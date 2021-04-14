@@ -33,7 +33,11 @@ He has some issues but he kinda works lol. Can't get him to "properly" avoid ene
 ![]({{site.baseurl}}//Screen%20Shot%202021-04-13%20at%205.06.56%20PM.jpg)![Screen Shot 2021-04-13 at 5.06.56 PM.jpg]({{site.baseurl}}/Screen Shot 2021-04-13 at 5.06.56 PM.jpg)
 
 
+[Hydra Exp 4](https://hydra.ojack.xyz/?code=czAuaW5pdFZpZGVvKCUyMmh0dHBzJTNBJTJGJTJGbWVkaWEuZ2lwaHkuY29tJTJGbWVkaWElMkZBUzlMSUZ0dFl6a2MwJTJGZ2lwaHkubXA0JTIyKSUzQiUwQSUwQSUwQW9zYygpLmNvbG9yKDElMkMuMSUyQzIpLnNhdHVyYXRlKDI5KS5waXhlbGF0ZSgxMCkuc2NhbGUoMC4xKS5yb3RhdGUoMzAwJTJDMCklMEElMjAlMjAuYmxlbmQob3NjKCkuY29sb3IoLjElMkMyJTJDNCkpJTBBJTIwJTIwLmFkZChub2lzZSgpKSUwQSUwOS5yZXBlYXQoKSUwQS5sdW1hKDAuMSUyQzAuMSklMEEuYWRkKHNoYXBlKDEwMCkpJTBBLmthbGVpZCgxMCklMEEuc2F0dXJhdGUoMTAwKSUwQS5zY2FsZSg1KSUwQS5yb3RhdGUoMSUyQyUyMC4xKSUwQS5tb2R1bGF0ZVJlcGVhdChvc2MoMTApKSUwQS5yb3RhdGUoMjUwJTJDMCklMEEubW9kdWxhdGUobzApJTBBLmJsZW5kKG9zYygpLm1vZHVsYXRlKG8wKS4lMjBjb2xvcmFtYSgxMCkpJTBBLmFkZChzcmMoczApKSUwQS50aHJlc2goLjUlMkMyKSUwQS5pbnZlcnQoKSUwQS5zY2FsZSgwLjIpJTBBLmthbGVpZCgyMCklMEEuYWRkKHNyYyhzMCklMEElMjAlMjAlMjAlMjAubW9kdWxhdGVSZXBlYXQob3NjKCkpJTBBJTIwJTIwJTIwJTIwJTIwLnJvdGF0ZSgzMDAlMkMwKSUwQSUyMCUyMCUyMCUyMCUyMCklMEElMjAlMjAub3V0KCk=)
 
+![Screen Shot 2021-04-14 at 10.29.29 AM.jpg]({{site.baseurl}}/Screen Shot 2021-04-14 at 10.29.29 AM.jpg)
+
+Idk, not happy with any of these... and none of the gifs I find work, only the one of the hydra github example works :(
 
 
 [HOME](README.md)
