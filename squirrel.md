@@ -48,6 +48,6 @@ realized I need the .mp4 not the .gif! silly me
 
 ![Screen Shot 2021-04-14 at 12.47.28 PM.jpg]({{site.baseurl}}/Screen Shot 2021-04-14 at 12.47.28 PM.jpg)
 
-kinda too much goign on but idk, kinda cool i guess, yeah I like it now 
+kinda too much goign on but idk, kinda cool, yeah I like it now 
 
 [HOME](README.md)
