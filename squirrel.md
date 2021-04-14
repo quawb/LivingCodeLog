@@ -8,13 +8,13 @@
 
 ## PROCESS
 
-We divided up the things that everyone was doing, but helped each other when we got stuck. I did the enemy squirrels and helped others when they got stuck. After the class I had free time, and enjoy doing this stuff, so I put everyones stuff together and made a couple minor tweaks, like adding in the image for the player squirrel. We then got together on Sunday to tweak the code together, add some features and plan ahead. There was a lot of great brain storming. Russel had the idea to include an acorn that gave the squirrel health, which we all thought was great. Markus had the idea to make all the forest objects have avoid functions. And we had a bunch of crazier ideas that weren't exactly possible in the time frame (one of which involved collecting cyborg parts and turning into a cyborg squirrel and having a boss squirrel appear that you need to shoot lasers at to defeat). Was fun and we are on continuing to work on and debug together through discord. 
+We divided up the things that everyone was doing, but helped each other when we got stuck. I did the enemy squirrels and helped others when they got stuck. After the class I had free time, and enjoy doing this stuff, so I put everyones stuff together and made a couple minor tweaks, like adding in the image for the player squirrel. We then got together on Sunday to tweak the code together, add some features and plan ahead. There was a lot of great brain storming, everyone showed me some stuff I didn't know about (I was doing fullscreen wrong for example), and there were a lot of great ideas, like to include an acorn that gave the squirrel health, and someone else had the idea to make all the forest objects have avoid functions, and others. And we had a bunch of crazier ideas that weren't exactly possible in the time frame (one of which involved collecting cyborg parts and turning into a cyborg squirrel and having a boss squirrel appear that you need to shoot lasers at to defeat). Was fun and we are continuing to work on and debug together through discord. 
 
 ## CHALLENGES
 
-1. Never quite figured out how to get the forest objects to not overlap, but they still look really nice dispersed on the screen randomly so we left it like that. 
+1. Never quite figured out how to get the forest objects to not overlap, but they still look really nice dispersed on the screen randomly so we left it like that and focused on other things
 1. The spritesheet thing we got confused about and just used a GIF instead. 
-1. Could not figure out the camera thing for the life of me, idk we tried a bunch of different things but it just didn't work lol. Maybe next time
+1. Could not figure out the camera thing for the life of me, idk we tried a bunch of different things but it just didn't work lol. Hopefully next time
 
 ## ADVANCED REQUIREMENTS
 
@@ -26,7 +26,7 @@ We divided up the things that everyone was doing, but helped each other when we 
 1. what else, acorn that appears when your health is less than 3 that spawns randomly on the map and gives you one health 
 
 ## MADE A ROBOT
-He has some issues but he kinda works lol. Can't get him to "properly" avoid enemy squirrels that are larger than him so I tryied to bounce the squirrels away from him and had to give him a much larger health. still has issues though. I made it so the robot and the player compete to eat the squirrels, think I will make it so when the robot reachs max size he chases the player, but this game might be getting too difficult now...hmm could make the robot carry the little squirrels to the player?
+He has some issues but he kinda works lol. Can't get him to "properly" avoid enemy squirrels that are larger than him so I tried to bounce the squirrels away from him and had to give him a much larger health. still has issues though. I made it so the robot and the player compete to eat the squirrels, when the robot reachs max size he chases the player, but this game might be getting too difficult now...hmm could make the robot carry the little squirrels to the player?
 
 [HYDRA EXPERIMENT 3](https://hydra.ojack.xyz/?code=czAuaW5pdEltYWdlKCUyMmh0dHBzJTNBJTJGJTJGdmlnbmV0dGUud2lraWEubm9jb29raWUubmV0JTJGY29uY29yZCUyRmltYWdlcyUyRmYlMkZmYiUyRkludGVyc3RlbGxhcl9zcGFjZXNoaXAuanBnJTJGcmV2aXNpb24lMkZsYXRlc3QlM0ZjYiUzRDIwMjAwODE1MTUyMjQ5JTIyKSUzQiUwQSUwQXNyYyhzMCkuc2F0dXJhdGUoMTApLnJvdGF0ZSgxMCUyQy0xKS5tb2R1bGF0ZVJlcGVhdChvc2MoMTApJTJDMyUyQzMlMkMxJTJDMSkua2FsZWlkKDIpLmFkZChvc2MoMC45JTJDMSUyQy4yKS5jb2xvcmFtYSgxJTJDMCUyQzEpLnBpeGVsYXRlKDEpLnNjYWxlKDAuMSkucm90YXRlKDEwJTJDMSkpLmJsZW5kKG5vaXNlKDEwJTJDMC4xKSUyQzAuNSkucm90YXRlKDEwJTJDLTAuNSkuc2NhbGUoMC4yKS5hZGQoc2hhcGUoMTAwKS5yb3RhdGUoMSUyQzEpKS5hZGQob3NjKCkucGl4ZWxhdGUoMTAwKSkuc2F0dXJhdGUoMTApLnNjYWxlKDIpLm91dCgpJTBB)
 
