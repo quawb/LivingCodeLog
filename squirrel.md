@@ -43,5 +43,11 @@ He has some issues but he kinda works lol. Can't get him to "properly" avoid ene
 
 Idk, not happy with any of these... and none of the gifs I find work, only the one of the hydra github example works :(
 
+went back to [exp 3](https://hydra.ojack.xyz/?code=czAuaW5pdEltYWdlKCUyMmh0dHBzJTNBJTJGJTJGdmlnbmV0dGUud2lraWEubm9jb29raWUubmV0JTJGY29uY29yZCUyRmltYWdlcyUyRmYlMkZmYiUyRkludGVyc3RlbGxhcl9zcGFjZXNoaXAuanBnJTJGcmV2aXNpb24lMkZsYXRlc3QlM0ZjYiUzRDIwMjAwODE1MTUyMjQ5JTIyKSUzQiUwQXMxLmluaXRWaWRlbyglMjJodHRwcyUzQSUyRiUyRm1lZGlhLmdpcGh5LmNvbSUyRm1lZGlhJTJGV3JPRTdPQW01b2RBTmxJMG5wJTJGZ2lwaHkubXA0JTIyKSUwQXMyLmluaXRWaWRlbyglMjJodHRwcyUzQSUyRiUyRm1lZGlhLmdpcGh5LmNvbSUyRm1lZGlhJTJGUmNpZHc2Y3oxMlp5TSUyRmdpcGh5Lm1wNCUyMiklMEElMEFzcmMoczApLnNhdHVyYXRlKDEwKS5yb3RhdGUoMTAlMkMtMSkubW9kdWxhdGVSZXBlYXQob3NjKDEwKSUyQzMlMkMzJTJDMSUyQzEpLmthbGVpZCgyKSUwQSUyMCUyMC5hZGQob3NjKDAuOSUyQzElMkMuMikuY29sb3JhbWEoMSUyQzAlMkMxKS5waXhlbGF0ZSgxKS5zY2FsZSgwLjEpLnJvdGF0ZSgxMCUyQzEpKSUwQSUyMCUyMC5ibGVuZChub2lzZSgxMCUyQzAuMSklMkMwLjUpLnJvdGF0ZSgxMCUyQy0wLjUpLnNjYWxlKDAuMiklMEElMjAlMjAuYWRkKHNoYXBlKDEwMCkucm90YXRlKDElMkMxKSklMEElMjAlMjAuYWRkKG9zYygpLnBpeGVsYXRlKDEwMCkpLnNhdHVyYXRlKDEwKS5zY2FsZSgyKSUwQSUyMCUyMC5ibGVuZChzcmMoczApJTJDMC42KSUwQSUyMCUyMC5tYXNrKHNyYyhzMikuc2NhbGUoMC4yKSUyQzEpJTBBJTJGJTJGLm11bHQoc3JjKHMxKSUyQy44KSUwQSUyMCUyMC5vdXQoKSUwQQ==), 
+realized I need the .mp4 not the .gif! silly me
+
+![Screen Shot 2021-04-14 at 12.47.28 PM.jpg]({{site.baseurl}}/Screen Shot 2021-04-14 at 12.47.28 PM.jpg)
+
+kinda too much goign on but idk, kinda cool i guess
 
 [HOME](README.md)
