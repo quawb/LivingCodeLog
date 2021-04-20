@@ -27,6 +27,7 @@
 1. need some things to remain constant
 1. simulate unity game from last semester, words blocking, etc
 1. I want arrows to move stuff
+1. want to create some kind of world
 
 ## PROPOSAL
 
