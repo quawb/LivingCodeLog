@@ -1,0 +1,21 @@
+## proposal/ideas
+
+1. drawings 
+1. quotes 
+1. movies 
+1. dancing characters
+1. lyrics
+1. tools
+1. education, answer questions incorrectly 
+1. just start playing around
+1. maps
+1. some level of user interaction
+1. personality quizzes, 
+1. statistics 
+1. face distortions 
+1. something with diagrams?
+1. deconstructive thesis video and make all the pieces into a generational / interactive thing?
+1. how else can I use videos? 
+
+
+
