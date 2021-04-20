@@ -15,7 +15,10 @@
 1. face distortions 
 1. something with diagrams?
 1. deconstructive thesis video and make all the pieces into a generational / interactive thing?
-1. how else can I use videos? 
-
-
+1. how else can I use videos?
+1. rooms? mind map
+1. bored button
+1. move objects/tools around
+1. can you move a character?
+1. memories?
 
