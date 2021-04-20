@@ -23,3 +23,7 @@
 1. memories?
 1. scrolling landscape
 1. flooding
+
+### examples of stuff I have
+
+### inspiration
