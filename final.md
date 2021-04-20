@@ -22,7 +22,10 @@
 1. can you move a character?
 1. memories?
 1. scrolling landscape
-1. flooding
+1. flooding, click on pipe to flood, hidden interactions that are randomized somewhat
+1. clicking on things shrinks and kills them, makes a beep boop noise
+1. need some things to remain constant
+1. simulate unity game from last semester, words blocking, etc
 
 ### examples of stuff I have
 
