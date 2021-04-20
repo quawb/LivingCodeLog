@@ -1,4 +1,4 @@
-## proposal/ideas
+## ideas
 
 1. drawings 
 1. quotes 
@@ -26,7 +26,11 @@
 1. clicking on things shrinks and kills them, makes a beep boop noise
 1. need some things to remain constant
 1. simulate unity game from last semester, words blocking, etc
+1. I want arrows to move stuff
+
+## PROPOSAL
 
 ### examples of stuff I have
 
 ### inspiration
+
