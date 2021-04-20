@@ -30,7 +30,7 @@
 
 ## PROPOSAL
 
-### examples of stuff I have
+## examples of stuff I have
 
-### inspiration
+## inspiration
 
