@@ -30,10 +30,20 @@
 1. want to create some kind of world
 1. NO, make a diagram, map, generator, YES, make this awesome and interactive. real and abstract
 	- can have a little guy walk/jumping around the map
+    	- what/how is best way to do this?
     -  can have enemies as well
+    - tells people what to draw, the people are the machines, the computer is the brain 
+    	- instructions for drawing, what to do with these drawings, mail them to Joe Biden? 
+    	- can there be a way to have people upload drawings and incorporate/save those?
+    - still want/need random events, dancing animations, errors, wave of enemies that eat through the diagrams (player needs a way to defend), etc... 
 
 ## PROPOSAL
 
-## examples of stuff I have
+I want to create a procedurally generated diagram generator that does the "art" thinking for you.
+
+## examples of stuff I have 
+
+- [examples of diagrams](https://chrisdivincenzo.github.io/Thesis/diagrams.html) these are the types of diagrams I am hoping to emulate (and evolve?)
 
 ## inspiration
+
