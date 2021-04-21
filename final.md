@@ -36,6 +36,11 @@
     	- instructions for drawing, what to do with these drawings, mail them to the White House? 
     	- can there be a way to have people upload drawings and incorporate/save those?
     - still want/need random events, dancing animations, errors, wave of enemies that eat through the diagrams (player needs a way to defend), etc... 
+    - needs addition layer, layer of text? Images? What does this need?
+    - need a lot of "fun" noises and sounds
+    - everything needs to be clickable
+    	- movable?
+    - 
 
 ## PROPOSAL
 
@@ -47,3 +52,4 @@ I want to create a procedurally generated diagram generator that does the "art" 
 
 ## inspiration
 
+not sure lol
