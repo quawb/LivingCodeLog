@@ -45,6 +45,9 @@
     	- think about what evolving diagrams means
     - should some be surveys, quizes, vendiagrams, pie chart, you now other things that are diagrams that I'm excluding, or no?
     - should everything be moving?
+    - need some interesting way to navigate them, maybe you can move from room to room, make text objects that block your pathway
+    	- player would be a pencil
+    - 
 
 ## PROPOSAL
 
