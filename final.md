@@ -41,6 +41,9 @@
     - everything needs to be clickable
     	- movable?
     - needs to be very visually appealing
+    - can evolve or restart, 
+    	- think about what evolving diagrams means
+    - 
 
 ## PROPOSAL
 
