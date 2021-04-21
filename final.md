@@ -33,7 +33,7 @@
     	- what/how is best way to do this?
     -  can have enemies as well
     - tells people what to draw, the people are the machines, the computer is the brain 
-    	- instructions for drawing, what to do with these drawings, mail them to Joe Biden? 
+    	- instructions for drawing, what to do with these drawings, mail them to the White House? 
     	- can there be a way to have people upload drawings and incorporate/save those?
     - still want/need random events, dancing animations, errors, wave of enemies that eat through the diagrams (player needs a way to defend), etc... 
 
