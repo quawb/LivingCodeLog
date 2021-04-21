@@ -47,7 +47,7 @@
     - should everything be moving?
     - need some interesting way to navigate them, maybe you can move from room to room, make text objects that block your pathway
     	- player would be a pencil
-    - 
+    - twisted arms, vines and machines?
 
 ## PROPOSAL
 
