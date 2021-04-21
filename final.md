@@ -33,14 +33,14 @@
     	- what/how is best way to do this?
     -  can have enemies as well
     - tells people what to draw, the people are the machines, the computer is the brain 
-    	- instructions for drawing, what to do with these drawings, mail them to the White House? 
+    	- instructions for drawing, what to do with these drawings, mail them to the White House? a friend, show and tell, ways for presentation, sharing, giving birth to art..........
     	- can there be a way to have people upload drawings and incorporate/save those?
     - still want/need random events, dancing animations, errors, wave of enemies that eat through the diagrams (player needs a way to defend), etc... 
     - needs addition layer, layer of text? Images? What does this need?
     - need a lot of "fun" noises and sounds
     - everything needs to be clickable
     	- movable?
-    - 
+    - needs to be very visually appealing
 
 ## PROPOSAL
 
