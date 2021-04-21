@@ -29,6 +29,8 @@
 1. I want arrows to move stuff
 1. want to create some kind of world
 1. NO, make a diagram, map, generator, YES, make this awesome and interactive. real and abstract
+	- can have a little guy walk/jumping around the map
+    -  can have enemies as well
 
 ## PROPOSAL
 
