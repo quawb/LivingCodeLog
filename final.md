@@ -28,10 +28,10 @@
 1. simulate unity game from last semester, words blocking, etc
 1. I want arrows to move stuff
 1. want to create some kind of world
+1. NO, make a diagram, map, generator, YES, make this awesome and interactive. real and abstract
 
 ## PROPOSAL
 
 ## examples of stuff I have
 
 ## inspiration
-
