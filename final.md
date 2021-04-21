@@ -44,6 +44,7 @@
     - can evolve or restart, 
     	- think about what evolving diagrams means
     - should some be surveys, quizes, vendiagrams, pie chart, you now other things that are diagrams that I'm excluding, or no?
+    - should everything be moving?
 
 ## PROPOSAL
 
