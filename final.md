@@ -40,3 +40,13 @@ I want to create a procedurally generated diagram generator. There will be multi
     - should everything be moving?
     - need some interesting way to navigate them, maybe you can move from room to room, make text objects that block your pathway
     - twisted arms, vines and machines instead of arrows? no I think arrows are better
+    - mouse pointer could be a pair of scissors 
+
+## plan
+
+1. start simple
+1. recreate "zombie" one
+1. then make room selector 
+1. make other room possiblities
+1. make buttons
+1. plan events
