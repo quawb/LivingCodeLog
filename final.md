@@ -58,7 +58,7 @@ taking it slow, will need to figure out a lot of stuff...
 1. need to figure out how to make the arrows point towards the creature (feel like I can figure this out)
 1. how to make the text not overlap, should be able to do something like the grass from the squirrel stuff to make this work
 1. building text from an array of an array, think I got it now conceptually, but I still need to figure out, just working on the easiest stuff first
-1. 
+1. (WILL KEEP ADDING TO THIS! Moving a little slowly this week in order to wrap up my thesis draft, will def have many questions along the way! trying to take it one step at a time)
 
 ## Inspiration 
 
