@@ -45,7 +45,7 @@ I want to create a procedurally generated diagram generator. There will be multi
 ## plan
 
 1. start simple
-1. recreate "zombie" one
+1. recreate "zombie" diagram (pink creature blue background)
 1. then make room selector 
 1. make other room possiblities
 1. make buttons
