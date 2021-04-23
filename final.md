@@ -50,3 +50,18 @@ I want to create a procedurally generated diagram generator. There will be multi
 1. make other room possiblities
 1. make buttons
 1. plan events
+
+## Questions
+
+taking it slow, will need to figure out a lot of stuff...
+
+1. need to figure out how to make the arrows point towards the creature (feel like I can figure this out)
+1. how to make the text not overlap, should be able to do something like the grass from the squirrel stuff to make this work
+1. building text from an array of an array, think I got it now conceptually, but I still need to figure out, just working on the easiest stuff first
+1. 
+
+## Inspiration 
+
+honestly not 100% sure where this idea came from, I started out by wanting to make a diagram for my thesis paper a while ago, kind of as a funny/subversive act I guess, and enjoyed doing it. For my installation I had a critique were people were suggesting hanging up posters or vinyl to go with my work (originally I was like no way, posters?, I have a video why would I do that) and then I was like wait, yes! I should make a bunch of diagrams and hang those up. So the diagrams come from the thesis video and installation I did like a month ago. 
+
+I didn't initially know what to do for this project, I really liked what you did in the online show and was thinking about that a lot, was thinking about ways to deconstruct my thesis video and have all the elements come together in some randomized way, but that felt wrong, and then when I was watching Kate Compton at some random moment I was like oh yes, diagram generator, that's what I need to do! So I guess she inspired me even though I'm not sure how exactly the art toys (think I was watching the flower one at this point) connect to these diagrams lol, but I'm sure theres a conection there somewhere. I also like [Rachel Rossin's](http://rossin.co) work a lot, the aesthetic mixture of real and digital things is something I want to experiment with more, I plan on continuing this project after to incorporate more mixtures of things like this, distorted video of my backyard, etc... although right now (like this second, might feel differently in an hour) my aesthetic, I feel like is more about real things intercepting digital spaces instead of digital things intercepting real spaces? (if that means anything lol)
