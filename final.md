@@ -72,6 +72,7 @@ I didn't initially know what to do for this project, I really liked what you did
 ## WORKING THROUGH IT! / ISSUES?
 - does this work on its out? (out of context from the video and other stuff)
 - is it fun?
-- how can I do more?
+- how can I do more? / add more diagrams, more types of types, and mix everything together
+- array of audio clips?
 
 ## REFLECTION!
