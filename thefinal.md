@@ -23,6 +23,14 @@ Goals:
 
 I wanted something that I found fun and funny, and related to the diagram project I based this off of. I wanted to include all 8 of the diagrams but I ended up only including 3 plus other stuff. I wasnt sure how to do this but I wanted it to have some real world effect, or like a command (i.e. draw your own cyber zombie) or something like that. But couldn't figure out how I wanted to include that? 
 
+Future/other goals:
+
+- Creatures (done)
+- pipe/water filling space
+- more backgrounds (like my room?)
+- sound?
+
+
 ### Challenges
 
 Conceptual Worries:
