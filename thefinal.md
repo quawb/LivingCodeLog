@@ -24,7 +24,7 @@ I wanted something that I found fun and funny, and related to the diagram projec
 
 Conceptual Worries:
 
-As I continued working through, I kinda of got bored of the diagram generator? It felt flat and I wanted more, so it started to transform into something a little less diagram generatory than I originally intended, and now I feel like all the features are still not fitting together as tightly as I wanted them to. 
+As I continued working through, I kinda of got bored of the diagram generator? It felt flat and I wanted more, so it started to transform into something a little less diagram generatory than I originally intended, and now I feel like all the features are still not fitting together as tightly as I wanted them to. Wish I figured out a soundscape thing for this
 
 Coding Challenges:
 
