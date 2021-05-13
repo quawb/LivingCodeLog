@@ -39,7 +39,7 @@ Future/other goals:
 
 _Conceptual Worries:_
 
-As I continued working through, I kinda of got bored of the diagram generator? It felt flat and I wanted more, so it started to transform into something a little less diagram generatory than I originally intended, and now I feel like all the features are still not fitting together as tightly as I wanted them to. Wish I figured out a soundscape thing for this
+As I continued working through, I kinda of got bored of the diagram generator? It felt flat and I wanted more, so it started to transform into something a little less diagram generatory than I originally intended, and now I feel like all the features are still not fitting together as tightly as I wanted them to. Wish I figured out a soundscape thing for this. Worried if this doesn't make sense out of context with the installation project
 
 _Coding Challenges:_
 
@@ -71,6 +71,17 @@ want to do much more. as I worked through this, I wanted to use things like this
 
 ![afinal5.jpg]({{site.baseurl}}/afinal5.jpg)
 
+## In-Depth Info
 
+1. Bio button takes you to the title screen, there is no background so objects will have trail, the numbers are mostly random (with some parameters i.e. age: random (23-30)). All buttons change into same image but with drawn mouth and red X on forehead while they are pressed
+1. art changes the state to the what is art background. The text comes from one array and so anything can be in any of those positions, making everything interchangeable
+1. zombie button changes state to the blue background with the pink "zombie" version of me. The screen text is amount random(1,10). And combines two words from two arrays that I made. Most of these words come from the original diagram I made previously. The screen text moves with noise and the red X button marks the position.x and position.y, and if that gets closer to another it will eat that one and grow bigger. The creature can move with the arrow keys. If they go over the severed arm (which spawns on a random timer based off when the last was eaten), they will gain another label. you can remove the labels by clicking the X box. In order to get the labels to attach in a good enough way, I had to break up the rules for each position into quadrents and sometimes this causes them to jump around.
+1. Cyborg button is basically the same as the zombie, wish I did more differently with this. The words come from different arrays
+1. movies button is like a meme generator. It changes the background to a random image from a movie (movies that I remember watching frequently as a kid) and mismatches quotes to the images. 
+1. Faces adds face objects that float around and eat smaller versions of themselves, as well as the mona lisas and money
+1. Art buttons make mona lisas and moneys that move around and eat each other. There is a resources consumed stat on the bottom left that keeps track of this (although I think I broke it somehow and forgot about that). The arrows control the first object in the mona lisa/money/faces array. (will break if you conume like 800 resources)
+1. mush buttons toggles mushroom generator on/off, they spawn (an array of three mushrooms) based off the last mushroom's position
+1. build buttons makes sky scrappers in the same fashion as the mushrooms, except slightly slower (hard to tell)
+1. create buttons makes creature objects that float around and are attached to a different array of quotes
 
 [HOME](README.md)
