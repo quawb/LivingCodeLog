@@ -37,6 +37,11 @@ A big challenge was also reworking everything to fit in this more menu like vers
 
 I tried to make the zombie/cyborg creatures able to turn on/off in other rooms, but it just didn't work lol, so I gave up on that for now. feel like i need to restart and really clean up my code and figure out where I want to take this next, think I want more drawing tools, and a way for more things to be diagrammed. 
 
+Just made a bunch of little creatures that you can spawn, pretty happy with that, feel like this should do something though?
+
+![afinal4.jpg]({{site.baseurl}}/afinal4.jpg)
+
+
 ### Approach
 
 Probably should've planned more. Or well I did plan a lot (just not that thoroughly), and I  change my mind about things often lol. I tried to start out doing all the easiest stuff first and work from there. Towards the end I kinda wanted to fully restart so I could rework eveyrthing since my goals had changed, but I didn't do that (because of time or stubornness).
