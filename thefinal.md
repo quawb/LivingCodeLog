@@ -4,10 +4,12 @@
 
 ### Code [HERE](https://editor.p5js.org/chrismdv00/sketches/C0xxCQ6c0)
 
+![aFinal1.jpg]({{site.baseurl}}/aFinal1.jpg)
+
 ### Reflecting On Process:
 
 hard lol, fun though
 
 ### Thinking about the future:
 
-want to do much more, 
+want to do much more,
