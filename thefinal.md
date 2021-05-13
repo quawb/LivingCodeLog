@@ -65,4 +65,4 @@ hard lol, fun though, only sort of ended up as a diagram generator, I kind of sl
 want to do much more. as I worked through this, I wanted to use things like this to get inspiration to do other stuff, not sure if that makes sense... When I was doing all this stuff and would see the random outputs I would get excited and be like, I want to make something esle with this now lol. I really like this whole procedurally generated thing, feel like there is something here I can latch onto, but I haven't fully figured it out yet. I'm so used to working in video and thigns that have one exact same output every time, kinda hard to change that thinking, but I would really like to make some kind of "video-like" experience that is generative (summer project!). 
 
 
-[HOME](readme.md)
+[HOME](README.md)
