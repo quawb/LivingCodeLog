@@ -1,8 +1,8 @@
 ## TENTATIVE TITLE: "DIAGRAM GENERATOR"
 
-### Play [HERE](https://editor.p5js.org/chrismdv00/full/C0xxCQ6c0)
+### [Play HERE](https://editor.p5js.org/chrismdv00/full/C0xxCQ6c0)
 
-### Code [HERE](https://editor.p5js.org/chrismdv00/sketches/C0xxCQ6c0)
+### [Code HERE](https://editor.p5js.org/chrismdv00/sketches/C0xxCQ6c0)
 
 ![aFinal1.jpg]({{site.baseurl}}/aFinal1.jpg)
 
