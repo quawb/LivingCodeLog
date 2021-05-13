@@ -27,7 +27,7 @@ Future/other goals:
 
 - Creatures (done)
 - pipe/water filling space
-- more backgrounds (like my room?)
+- more backgrounds (like my room? so you an infest more spaces)
 - sound?
 
 
