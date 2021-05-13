@@ -14,6 +14,9 @@ This started out as a diagram generator accompaniment to the thesis installation
 
 ![sideBySide.jpg]({{site.baseurl}}/sideBySide.jpg)
 
+![artSideBySide.jpg]({{site.baseurl}}/artSideBySide.jpg)
+
+
 **Generator on left, original diagrams on right**
 
 Goals:
