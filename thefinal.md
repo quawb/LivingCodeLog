@@ -37,14 +37,14 @@ A big challenge was also reworking everything to fit in this more menu like vers
 
 I tried to make the zombie/cyborg creatures able to turn on/off in other rooms, but it just didn't work lol, so I gave up on that for now. feel like i need to restart and really clean up my code and figure out where I want to take this next, think I want more drawing tools, and a way for more things to be diagrammed. 
 
-Just made a bunch of little creatures that you can spawn, pretty happy with that, feel like this should do something though?
+Just made a bunch of little creatures that you can spawn, pretty happy with that, feel like they should do something more though?
 
 ![afinal4.jpg]({{site.baseurl}}/afinal4.jpg)
 
 
 ### Approach
 
-Probably should've planned more. Or well I did plan a lot (just not that thoroughly), and I  change my mind about things often lol. I tried to start out doing all the easiest stuff first and work from there. Towards the end I kinda wanted to fully restart so I could rework eveyrthing since my goals had changed, but I didn't do that (because of time or stubornness).
+Probably should've planned more. Or well I did plan a lot (just not that thoroughly i guess), and I  change my mind about things often lol. I tried to start out doing all the easiest stuff first and work from there. Towards the end I kinda wanted to fully restart so I could rework eveyrthing since my goals had changed, but I didn't do that (because of time or stubornness). slow and steady! just added something that was much easier to do because I new exactly how I wanted to turn it off and on and etc... If I were to redo I won't use stages, I would just push and splice everything, stages better for something else I think. better for backgrounds maybe...
 
 ### Reflecting On Process:
 
