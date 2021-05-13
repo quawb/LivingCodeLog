@@ -8,7 +8,7 @@
 
 ### Concept
 
-Where did this come from?
+_Where did this come from?_
 
 This started out as a diagram generator accompaniment to the thesis installation I did (where I made 8 diagrams). I thought it would be cool if I could have these diagrams "randomly" generated, and since the project involved "cyberzombies" and cyborgs it seemed almost like these diagrams should have been computerized more from the get go. 
 
@@ -19,9 +19,13 @@ This started out as a diagram generator accompaniment to the thesis installation
 
 **Generator on left, original diagrams on right**
 
-Goals:
+_What is this though?_
 
-I wanted something that I found fun and funny, and related to the diagram project I based this off of. I wanted to include all 8 of the diagrams but I ended up only including 3 plus other stuff. I wasnt sure how to do this but I wanted it to have some real world effect, or like a command (i.e. draw your own cyber zombie) or something like that. But couldn't figure out how I wanted to include that? 
+I'm not entire sure is one answer. This is meant to be a fun way to create diagrams, which I find to be a funny medium to absurdify. For me, I enjoy watching the mushrooms grow and the creatures float around on the screen. The mismatching of quotes and images also is something I like play around with. The real short answer is that I just think its funny, and hopefully others will as well. There is something conceptual here about computers generating labels for these fleshy creatures, as well as the battle between the sprawling mushrooms and buildings. There is a lot of clashing of worlds here in my opinion. One of the diagrams questions, "what is art", asking the audience, is this art, can you make art with this? These diagrams came out of a project that was related to critical pedagogy, I think these diagrams were meant to subvert a mode of education, make it more malleable and absurdify the unchangable quality of standard "diagrams". 
+
+_Goals:_
+
+I wanted something that I found fun and funny, and related to the diagram project I based this off of. I wanted to include all 8 of the diagrams but I ended up only including 3 plus other stuff. I wasnt sure how to do this but I wanted it to have some real world effect, or like a command (i.e. draw your own cyber zombie) or something like that. But couldn't figure out how I wanted to include that? Woudl be cool if player/user/etc could upload their face and swap it out of mine, but there are all the creatures and etc as well...hmmm...
 
 Future/other goals:
 
@@ -33,11 +37,11 @@ Future/other goals:
 
 ### Challenges
 
-Conceptual Worries:
+_Conceptual Worries:_
 
 As I continued working through, I kinda of got bored of the diagram generator? It felt flat and I wanted more, so it started to transform into something a little less diagram generatory than I originally intended, and now I feel like all the features are still not fitting together as tightly as I wanted them to. Wish I figured out a soundscape thing for this
 
-Coding Challenges:
+_Coding Challenges:_
 
 I a lot of the aspects I was trying to figure out I had never tried so they took me a while to get right, i.e. having the mushrooms spawn based of off the last one's position, and connecting the arrows to the zombie/cyborg is a way where they weren't in the middle of nowhere or all in the same spot (and could move with the creature).
 
@@ -58,11 +62,11 @@ I started making a bunch of copies at some point, which helped me not get stuck 
 
 ### Reflecting On Process:
 
-hard lol, fun though, only sort of ended up as a diagram generator, I kind of slipped away into something else. Memes kinda feel like diagrams to me though? I guess I was more interesting in weird ways to "draw" (mushrooms, buildings, faces). I liked the diagrams a lot and I want to keep looking at this and figure out how to better incorporate them in this as a whole. Need some way to label anything/everything around. I also have like five other diagrams from my installation that I didn't get to work on. I was trying to slow this down a lot, but it still gets overwhelming sometimes. Need to figure out sound, hopefully I can work on that tomorrow before class. the mushrooms and the buildings aren't very pretty either, wondering if I should've done something with pixels? would be cool if I could figure out a way to embed glitches into this. wish I had more time to play around with this, was hard to manage time with thesis and all, but that's life I guess lol. 
+hard lol, fun though, only sort of ended up as a diagram generator, I kind of slipped away into something else. Memes kinda feel like diagrams to me though? I guess I was more interesting in weird ways to "draw" (mushrooms, buildings, faces). I liked the diagrams a lot and I want to keep looking at this and figure out how to better incorporate them in this as a whole, I like having this random drawings(?) that are "randomly" labeled, theres soemthign there that appeals to me. Need some way to label anything/everything. I also have like five other diagrams from my installation that I didn't get to work on. I was trying to slow this down a lot, but it still gets overwhelming sometimes. Need to figure out sound. the mushrooms and the buildings aren't very pretty either, wondering if I should've done something with pixels? would be cool if I could figure out a way to embed glitches into this. wish I had more time to play around with this, was hard to manage time with thesis and all, but that's life lol. 
 
 ### Thinking about the future:
 
-want to do much more. as I worked through this, I wanted to use things like this to get inspiration to do other stuff, not sure if that makes sense... When I was doing all this stuff and would see the random outputs I would get excited and be like, I want to make something esle with this now lol. I really like this whole procedurally generated thing, feel like there is something here I can latch onto, but I haven't fully figured it out yet. I'm so used to working in video and thigns that have one exact same output every time, kinda hard to change that thinking, but I would really like to make some kind of "video-like" experience that is generative (summer project!). 
+want to do much more. as I worked through this, I wanted to use things like this to get inspiration to do other stuff, not sure if that makes sense... When I was doing all this stuff and would see the random outputs I would get excited and be like, I want to make something else with this now. I really like this whole procedurally generated thing, feel like there is something here I can latch onto, but I haven't fully figured it out yet. I'm so used to working in video and things that have one exact same output every time, kinda hard to change that thinking, but I would really like to make some kind of "video-like" experience that is generative (summer project!). 
 
 
 [HOME](README.md)
