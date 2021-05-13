@@ -6,14 +6,15 @@
 
 ![aFinal1.jpg]({{site.baseurl}}/aFinal1.jpg)
 
-
-A final devlog post describing your project, linking to your project running in the browser, info on the concept, challenges, your approach, steps you took or challenges you confronted. You should also include screenshots.
-
 ### Concept
 
 Where did this come from?
 
 This started out as a diagram generator accompaniment to the thesis installation I did (where I made 8 diagrams). I thought it would be cool if I could have these diagrams "randomly" generated, and since the project involved "cyberzombies" and cyborgs it seemed almost like these diagrams should have been computerized more from the get go. 
+
+![sideBySide.jpg]({{site.baseurl}}/sideBySide.jpg)
+
+**Generator on left, original diagrams on right**
 
 Goals:
 
