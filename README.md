@@ -23,5 +23,7 @@ _Living Breathing and Smelling Code!_
 4/8/2021-4/15/2021
 
 [Final Proposal](final.md)
+4/22/2021-4/28/2021
 
 [Final Project](thefinal.md)
+4/28/2021 - 5/13/2021
